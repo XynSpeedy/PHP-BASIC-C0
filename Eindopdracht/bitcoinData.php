@@ -39,10 +39,10 @@
 function calculateBitcoinAmount()
 {
     if (isset($_GET['euro'])) {
-        $euro = (int)$_GET['euro']; //Dit blokje code (if-statement) kun je laten staan.
+        $euro = (int)$_GET['euro']; 
     }
 
-    //SCHRIJF JE CODE.
+    //SCHRIJF JE CODE
 
 
 
